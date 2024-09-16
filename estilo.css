@@ -1,0 +1,11 @@
+:root{
+    --bg-color: #C9DABF;
+    --primary-color:#9CA986;
+    --segundary-color:#808D7C;
+    --font:"Raleway", sans-serif;
+}
+body{
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+}
